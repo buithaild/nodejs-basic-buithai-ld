@@ -63,6 +63,14 @@ body {
     display: block;
 }
 
-.upload-file-container .btn-save {
+/* .upload-file-container .btn-save {
     margin-top: 15px;
+} */
+
+.upload-file-container h1 {
+    margin-top: 15px;
+}
+
+hr {
+    border-top: 3px solid #eee !important;
 }
